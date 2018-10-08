@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Römische Zahlen Kata.iml" filepath="$PROJECT_DIR$/Römische Zahlen Kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/romantranslator.iml" filepath="$PROJECT_DIR$/romantranslator.iml" />
     </modules>
   </component>
 </project>
