@@ -1,3 +1,5 @@
+//This class can split Integers in its single digits
+
 class SplitDigits {
     public static int[] split(int intToSplit) {
         int result;
